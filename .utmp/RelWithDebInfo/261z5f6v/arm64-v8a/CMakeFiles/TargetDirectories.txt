@@ -1,0 +1,5 @@
+C:/Users/artur/Unity/Journalism in Metaverse/.utmp/RelWithDebInfo/261z5f6v/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/artur/Unity/Journalism in Metaverse/.utmp/RelWithDebInfo/261z5f6v/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/artur/Unity/Journalism in Metaverse/.utmp/RelWithDebInfo/261z5f6v/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/artur/Unity/Journalism in Metaverse/.utmp/RelWithDebInfo/261z5f6v/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/artur/Unity/Journalism in Metaverse/.utmp/RelWithDebInfo/261z5f6v/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
