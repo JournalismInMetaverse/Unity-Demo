@@ -3,6 +3,9 @@ Disclaimer:<br>
 <br>
 This Unity demo is developed solely for conceptual and non-commercial research purposes. The integration of third-party content, including text, images, and videos from news articles and platforms like YouTube, is purely for illustrative exploration within the context of our research. We do not intend to derive any commercial benefit from these materials, nor do we aim to damage or misrepresent the brands, reputation, or intellectual property of their respective owners. <br>
 
+## Video showcasing the app
+https://www.youtube.com/watch?v=p5qs9SKKVrM
+
 ## Running the app
 - Made primarily for the Meta Quest 2/3, but with unity editor, can be build for other platforms as well
 - To run the app with Quest 2/3, sideload the .apk file from the releases
